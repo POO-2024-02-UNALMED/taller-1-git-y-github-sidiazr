@@ -1,0 +1,1 @@
+Github Desktop no recononió la carpeta vacía archivos, pero sí reconocío la creación de este documento de texto sobre esa misma carpeta
